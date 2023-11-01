@@ -1,1 +1,1 @@
-# cloud-hosting-sample-page
+# Cloud Hosting - Sample Page
